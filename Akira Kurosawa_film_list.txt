@@ -1,0 +1,20 @@
+{'film': 'Rashomon', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'Seven Samurai', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'Yojimbo', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'A Dream is a Genius', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'Broken Blossoms or the Yellow Man and the Girl', 'filmmaker': 'Unknown'}
+{'film': 'The Cabinet of Dr. Caligari', 'filmmaker': 'Unknown'}
+{'film': 'The Gold Rush', 'filmmaker': 'Unknown'}
+{'film': 'The Fall of the House of Usher', 'filmmaker': 'Unknown'}
+{'film': 'The Thin Man', 'filmmaker': 'Unknown'}
+{'film': 'The Grand Illusion', 'filmmaker': 'Unknown'}
+{'film': 'My Neighbor Totoro', 'filmmaker': 'Hayao Miyazaki'}
+{'film': 'The 400 Blows', 'filmmaker': 'François Truffaut'}
+{'film': 'Late Spring', 'filmmaker': 'Yasujirō Ozu'}
+{'film': 'Pather Panchali', 'filmmaker': 'Satyajit Ray'}
+{'film': "One Flew Over the Cuckoo's Nest", 'filmmaker': 'Miloš Forman'}
+{'film': 'Barry Lyndon', 'filmmaker': 'Stanley Kubrick'}
+{'film': "It's a Wonderful Life", 'filmmaker': 'Frank Capra'}
+{'film': 'Fanny and Alexander', 'filmmaker': 'Ingmar Bergman'}
+{'film': 'Paris, Texas', 'filmmaker': 'Wim Wenders'}
+{'film': 'The Godfather: Part II', 'filmmaker': 'Francis Ford Coppola'}

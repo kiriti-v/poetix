@@ -1,0 +1,24 @@
+{'film': "On Her Majesty's Secret Service", 'filmmaker': 'Christopher Nolan'}
+{'film': 'Heat', 'filmmaker': 'Christopher Nolan'}
+{'film': 'The Hateful Eight', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Baby Driver', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Chariots of Fire', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Speed', 'filmmaker': 'Christopher Nolan'}
+{'film': '2001: A Space Odyssey', 'filmmaker': 'Christopher Nolan'}
+{'film': '12 Angry Men', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Alien', 'filmmaker': 'Christopher Nolan'}
+{'film': 'All Quiet on the Western Front', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Blade Runner', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Close Encounters of the Third Kind', 'filmmaker': 'Christopher Nolan'}
+{'film': 'First Man', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Foreign Correspondent', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Greed', 'filmmaker': 'Christopher Nolan'}
+{'film': 'The Right Stuff', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Metropolis', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Lawrence of Arabia', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Star Wars', 'filmmaker': 'Christopher Nolan'}
+{'film': 'For All Mankind', 'filmmaker': 'Christopher Nolan'}
+{'film': 'The Hit', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Koyaanisqatsi', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Merry Christmas Mr. Lawrence', 'filmmaker': 'Christopher Nolan'}
+{'film': 'The Testament of Dr. Mabuse', 'filmmaker': 'Christopher Nolan'}

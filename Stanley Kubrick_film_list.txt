@@ -1,0 +1,18 @@
+{'film': 'Annie Hall', 'filmmaker': 'Woody Allen'}
+{'film': 'La Strada', 'filmmaker': 'Federico Fellini'}
+{'film': 'Cries and Whispers', 'filmmaker': 'Ingmar Bergman'}
+{'film': 'Eraserhead', 'filmmaker': 'David Lynch'}
+{'film': 'Pulp Fiction', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Bob le Flambeur', 'filmmaker': ''}
+{'film': 'The Company of Wolves', 'filmmaker': ''}
+{'film': "White Men Can't Jump", 'filmmaker': ''}
+{'film': 'Silence of the Lambs', 'filmmaker': ''}
+{'film': 'La Notte', 'filmmaker': ''}
+{'film': 'Henry V', 'filmmaker': ''}
+{'film': 'The Treasure of the Sierra Madre', 'filmmaker': ''}
+{'film': 'Citizen Kane', 'filmmaker': ''}
+{'film': 'Wild Strawberries', 'filmmaker': ''}
+{'film': 'I Vitelloni', 'filmmaker': ''}
+{'film': 'City Lights', 'filmmaker': ''}
+{'film': 'Roxie Hart', 'filmmaker': ''}
+{'film': "Hell's Angels", 'filmmaker': ''}

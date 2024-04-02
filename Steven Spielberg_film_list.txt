@@ -1,0 +1,20 @@
+{'film': 'Lawrence of Arabia', 'filmmaker': 'David Lean'}
+{'film': 'Citizen Kane', 'filmmaker': 'Orson Welles'}
+{'film': 'Guardians of the Galaxy', 'filmmaker': ''}
+{'film': 'The Godfather', 'filmmaker': 'Francis Ford Coppola'}
+{'film': 'The Searchers', 'filmmaker': ''}
+{'film': 'Stagecoach', 'filmmaker': ''}
+{'film': 'How Green Was My Valley', 'filmmaker': ''}
+{'film': 'Tootsie', 'filmmaker': ''}
+{'film': 'Captains Courageous', 'filmmaker': ''}
+{'film': 'The Best Years of Our Lives', 'filmmaker': ''}
+{'film': 'Fantasia', 'filmmaker': 'Walt Disney'}
+{'film': 'The Shining', 'filmmaker': ''}
+{'film': 'Dark Knight', 'filmmaker': 'Christopher Nolan'}
+{'film': "It's a Wonderful Life", 'filmmaker': 'Frank Capra'}
+{'film': 'Psycho', 'filmmaker': 'Alfred Hitchcock'}
+{'film': '2001: A Space Odyssey', 'filmmaker': 'Stanley Kubrick'}
+{'film': 'Seven Samurai', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'John Ford', 'filmmaker': ''}
+{'film': 'James Gunn', 'filmmaker': ''}
+{'film': 'François Truffaut', 'filmmaker': ''}

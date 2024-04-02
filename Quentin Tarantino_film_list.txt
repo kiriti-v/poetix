@@ -1,0 +1,37 @@
+{'film': 'The Texas Chainsaw Massacre', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Wild Bunch', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Young Frankenstein', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Back to the Future', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Thing', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Good, the Bad and the Ugly', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Rio Bravo', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Blow Out', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Taxi Driver', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'His Girl Friday', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Five Fingers of Death', 'filmmaker': 'Quentin Tarantino'}
+{'film': "Pandora's Box", 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Carrie', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Unfaithfully Yours', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Five Graves to Cairo', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Jaws', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Black Sabbath', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Tenebrae', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Rolling Thunder', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Prowler', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Battle Royale', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Anything Else', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Audition', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Blade', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Boogie Nights', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Dazed and Confused', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Dogville', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Fight Club', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Friday', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Host', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Insider', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Joint Security Area', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Lost in Translation', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'The Matrix', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Memories of Murder', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Supercop', 'filmmaker': 'Quentin Tarantino'}
+{'film': 'Shaun of the Dead', 'filmmaker': 'Quentin Tarantino'}

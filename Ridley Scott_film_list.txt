@@ -1,0 +1,16 @@
+{'film': 'Blade Runner', 'filmmaker': 'Ridley Scott'}
+{'film': 'Alien', 'filmmaker': 'Ridley Scott'}
+{'film': 'Citizen Kane', 'filmmaker': 'Unknown'}
+{'film': 'Lawrence of Arabia', 'filmmaker': 'Unknown'}
+{'film': 'The Seven Samurai', 'filmmaker': 'Unknown'}
+{'film': 'The Seventh Seal', 'filmmaker': 'Unknown'}
+{'film': 'Summer With Monika', 'filmmaker': 'Unknown'}
+{'film': 'Gilda', 'filmmaker': 'Unknown'}
+{'film': '2001: A Space Odyssey', 'filmmaker': 'Unknown'}
+{'film': "Muriel's Wedding", 'filmmaker': 'Unknown'}
+{'film': 'On the Beach', 'filmmaker': 'Unknown'}
+{'film': 'Killing Eve', 'filmmaker': 'Unknown'}
+{'film': 'Napoleon', 'filmmaker': 'Ridley Scott'}
+{'film': 'Gladiator', 'filmmaker': 'Ridley Scott'}
+{'film': 'Kingdom of Heaven', 'filmmaker': 'Ridley Scott'}
+{'film': 'Hannibal', 'filmmaker': 'Ridley Scott'}

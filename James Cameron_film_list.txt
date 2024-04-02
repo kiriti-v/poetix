@@ -1,0 +1,16 @@
+{'film': 'Avatar 2', 'filmmaker': 'James Cameron'}
+{'film': 'Titanic', 'filmmaker': 'James Cameron'}
+{'film': 'Dr. Strangelove', 'filmmaker': 'Stanley Kubrick'}
+{'film': 'Wait Until Dark', 'filmmaker': 'Terence Young'}
+{'film': 'The Woman King', 'filmmaker': 'Gina Prince-Bythewood'}
+{'film': 'Borat', 'filmmaker': 'Larry Charles'}
+{'film': 'Resident Evil', 'filmmaker': 'Paul W. S. Anderson'}
+{'film': 'Alien', 'filmmaker': 'Ridley Scott'}
+{'film': 'The Wizard of Oz', 'filmmaker': 'Victor Fleming'}
+{'film': '2001: A Space Odyssey', 'filmmaker': 'Stanley Kubrick'}
+{'film': 'The Godfather', 'filmmaker': 'Francis Ford Coppola'}
+{'film': 'Close Encounters of the Third Kind', 'filmmaker': 'Steven Spielberg'}
+{'film': 'Jaws', 'filmmaker': 'Steven Spielberg'}
+{'film': 'Butch Cassidy and the Sundance Kid', 'filmmaker': 'George Roy Hill'}
+{'film': 'Inception', 'filmmaker': 'Christopher Nolan'}
+{'film': 'Taxi Driver', 'filmmaker': 'Martin Scorsese'}

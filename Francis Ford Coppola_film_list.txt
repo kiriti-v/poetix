@@ -1,0 +1,15 @@
+{'film': 'The Godfather'}
+{'film': 'Apocalypse Now'}
+{'film': 'Ashes And Diamonds', 'filmmaker': 'Andrzej Wajda'}
+{'film': 'The Best Years Of Our Lives', 'filmmaker': 'William Wyler'}
+{'film': 'I Vitelloni', 'filmmaker': 'Federico Fellini'}
+{'film': 'The Bad Sleep Well', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'Yojimbo', 'filmmaker': 'Akira Kurosawa'}
+{'film': "Singin' In The Rain", 'filmmaker': 'Stanley Donen and Gene Kelly'}
+{'film': 'The King Of Comedy', 'filmmaker': 'Martin Scorsese'}
+{'film': 'Raging Bull', 'filmmaker': 'Martin Scorsese'}
+{'film': 'The Apartment', 'filmmaker': 'Billy Wilder'}
+{'film': 'Sunrise', 'filmmaker': 'F.W. Murnau'}
+{'film': "B'Twixt Now and Sunrise"}
+{'film': 'Rumble Fish'}
+{'film': 'The Godfather, Coda: The Death of Michael Corleone'}

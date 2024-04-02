@@ -1,0 +1,16 @@
+{'film': "The Avenging Conscience: or 'Thou Shalt Not Kill'", 'filmmaker': 'D.W. Griffith'}
+{'film': 'Forbidden Fruit', 'filmmaker': 'Cecil B. DeMille'}
+{'film': 'A Ride on a Runaway Train', 'filmmaker': 'Lyman H. Howe'}
+{'film': 'Destiny', 'filmmaker': 'Fritz Lang'}
+{'film': 'The Last Laugh', 'filmmaker': 'F.W. Murnau'}
+{'film': 'Un chien andalou', 'filmmaker': 'Luis Buñuel and Salvador Dalí'}
+{'film': 'Bicycle Thieves', 'filmmaker': 'Vittorio De Sica'}
+{'film': 'Les Diaboliques', 'filmmaker': 'Henri-Georges Clouzot'}
+{'film': 'Peeping Tom', 'filmmaker': 'Michael Powell'}
+{'film': 'Blowup', 'filmmaker': 'Michelangelo Antonioni'}
+{'film': 'Vertigo', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'Rear Window', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'Rebecca', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'North by Northwest', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'Psycho', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'Shadow of a Doubt', 'filmmaker': 'Alfred Hitchcock'}

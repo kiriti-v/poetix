@@ -1,0 +1,35 @@
+{'film': 'Last Year at Marienbad', 'filmmaker': 'Alain Resnais'}
+{'film': 'Lawrence of Arabia', 'filmmaker': 'David Lean'}
+{'film': 'Lola Montés', 'filmmaker': 'Max Ophüls'}
+{'film': 'Once Upon a Time in the West', 'filmmaker': 'Sergio Leone'}
+{'film': 'The Round-Up', 'filmmaker': 'Miklós Jancsó'}
+{'film': 'Chimes at Midnight', 'filmmaker': 'Orson Welles'}
+{'film': 'The Trial', 'filmmaker': 'Orson Welles'}
+{'film': 'Barry Lyndon', 'filmmaker': 'Stanley Kubrick'}
+{'film': 'The Flowers of St. Francis', 'filmmaker': 'Roberto Rossellini'}
+{'film': 'High and Low', 'filmmaker': 'Akira Kurosawa'}
+{'film': 'The Band Wagon', 'filmmaker': 'Vincente Minnelli'}
+{'film': 'The Bad and the Beautiful', 'filmmaker': 'Vincente Minnelli'}
+{'film': 'Arsenic and Old Lace', 'filmmaker': 'Frank Capra'}
+{'film': 'Cat People', 'filmmaker': 'Jacques Tourneur'}
+{'film': 'Caught', 'filmmaker': 'Max Ophüls'}
+{'film': 'Born on the Fourth of July', 'filmmaker': 'Oliver Stone'}
+{'film': 'Ace in the Hole', 'filmmaker': 'Billy Wilder'}
+{'film': 'Killers of the Flower Moon', 'filmmaker': 'Martin Scorsese'}
+{'film': 'Paisan', 'filmmaker': 'Roberto Rossellini'}
+{'film': 'The Red Shoes', 'filmmaker': 'Michael Powell and Emeric Pressburger'}
+{'film': 'The River', 'filmmaker': 'Jean Renoir'}
+{'film': 'Ugetsu', 'filmmaker': 'Kenji Mizoguchi'}
+{'film': 'Ashes and Diamonds', 'filmmaker': 'Andrzej Wajda'}
+{'film': "L'avventura", 'filmmaker': 'Michelangelo Antonioni'}
+{'film': 'Salvatore Giuliano', 'filmmaker': 'Francesco Rosi'}
+{'film': '8½', 'filmmaker': 'Federico Fellini'}
+{'film': 'Contempt', 'filmmaker': 'Jean-Luc Godard'}
+{'film': 'The Leopard', 'filmmaker': 'Luchino Visconti'}
+{'film': 'Pearl', 'filmmaker': 'Ti West'}
+{'film': 'A Trip to the Moon', 'filmmaker': 'Georges Méliès'}
+{'film': 'Vertigo', 'filmmaker': 'Alfred Hitchcock'}
+{'film': 'The Ten Commandments', 'filmmaker': 'Cecil B. DeMille'}
+{'film': '2001: A Space Odyssey', 'filmmaker': 'Stanley Kubrick'}
+{'film': 'The Searchers', 'filmmaker': 'John Ford'}
+{'film': 'Citizen Kane', 'filmmaker': 'Orson Welles'}
